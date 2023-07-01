@@ -1,5 +1,5 @@
 # clock
-Clock screensaver for mobile and Laptop
+Clock screensaver for mobile and Laptop. You can unused mobile as a digital clock.
 
 Usage:
 ```F``` for fullscreen
